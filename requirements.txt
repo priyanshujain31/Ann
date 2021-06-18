@@ -4,7 +4,7 @@ altair==4.1.0
 argh==0.26.2
 argon2-cffi==20.1.0
 astor==0.8.1
-astroid @ file:///C:/ci/astroid_1592487315634/work
+
 astunparse==1.6.3
 async-generator==1.10
 atomicwrites==1.4.0
